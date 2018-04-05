@@ -1,0 +1,6 @@
+[submodule "interface"]
+	path = interface
+	url = https://github.com/flanker-d/interface
+[submodule "communications"]
+	path = communications
+	url = https://github.com/flanker-d/communications
